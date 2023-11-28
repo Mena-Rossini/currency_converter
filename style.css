@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("bgimg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#converter-container {
+  text-align: center;
+  background: transparent;
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+select,
+input,
+button {
+  margin: 5px;
+}
