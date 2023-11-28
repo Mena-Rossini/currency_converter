@@ -139,4 +139,8 @@ function convertCurrency() {
 
 ![2023-11-28 (8)](https://github.com/Mena-Rossini/currency_converter/assets/102855266/024ec1a2-03a6-4a38-be6e-c561c685064e)
 
+### Contributions:
+Contributions are welcome! If you find any issues or have suggestions for improvements, please [Open New Issue](https://github.com/Mena-Rossini/currency_converter/issues/new) or submit a pull request. Thank you!
 
+### License :
+MIT License
